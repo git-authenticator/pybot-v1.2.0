@@ -7,4 +7,4 @@ like adding more and more features,
 making the bot globally modular,
 managing our linux server using bot ,
 fix all bugs ;) 
-and manage our automation scans, schedule, stc :)
+and manage our automation scans, schedule, etc :)
